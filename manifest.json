@@ -8,10 +8,10 @@
       "matches": ["https://studio.youtube.com/*"],
       "js": [
         "content/injectStyles.js",
-        "content/injectTags.js",
         "content/domUtils.js",
         "content/uiControls.js",
         "content/messageHandler.js",
+        "content/tagInjector.js",
         "content/main.js"
       ]
     }
